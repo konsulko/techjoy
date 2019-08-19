@@ -1,5 +1,4 @@
-# BaconBits paddle game controller example
+# TechLab Cape joystick input driver example
 
-Example driver and DT overlay that creates a paddle style game
-controller with a single button using the BaconBits MiniCape for
-PocketBeagle.
+Example driver and DT overlay that creates a joystick-style game
+controller with two buttons.

@@ -1,1 +1,1 @@
-obj-m := paddle.o
+obj-m := techjoy.o
